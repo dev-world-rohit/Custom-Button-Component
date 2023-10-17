@@ -15,8 +15,6 @@ This is projects shows how to make a custom component that other developers can 
 **6. Functional Components:** All of the components (Button, App, and the event handlers) are functional components, which is the preferred way to create components in modern React.
 
 ## Images
-![app](https://github.com/dev-world-rohit/Custom-Button-Component/assets/136791205/b3351873-6488-4d9b-8bd3-b63d9d3f9878)
-
-![buttons](https://github.com/dev-world-rohit/Custom-Button-Component/assets/136791205/f200c7d3-4987-4342-ad65-4119db557835)
-
-![Screenshot_20231017_194003](https://github.com/dev-world-rohit/Custom-Button-Component/assets/136791205/44629b05-de75-4ece-815a-a3107f8717c0)
+<div style="text-align: center;">
+  <img src="https://github.com/dev-world-rohit/Custom-Button-Component/assets/136791205/44629b05-de75-4ece-815a-a3107f8717c0" alt="Screenshot" />
+</div>
